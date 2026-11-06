@@ -15,3 +15,5 @@ docs/     contains notes and templates
 ## Author
 
 Anna Spang
+
+this line was added on github
